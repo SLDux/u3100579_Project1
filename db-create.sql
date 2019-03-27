@@ -1,6 +1,7 @@
 CREATE DATABASE project_1;
 
 USE project_1;
+-- This is old localhost database but the table is the same
 
 CREATE TABLE stories (
     id INT(10) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
